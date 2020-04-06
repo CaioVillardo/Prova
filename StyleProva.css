@@ -1,0 +1,36 @@
+.section {
+    color: blanchedalmond;
+    float: left;
+    width: 100%;
+}
+
+.imagem {
+    text-align: center;
+    padding: 30%;
+    background-image: url(img/imagem.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.imagem h1 {
+    font-size: 50px;
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+    color: black;
+    height: 5px;
+}
+
+.redes img {
+    width: 2%;
+}
+
+.redes ul li {
+    padding: 75px;
+    padding-right: 150px;
+    list-style-type: none;
+    display: inline;
+}
